@@ -5,8 +5,6 @@
 média dos valores c. os valores dispostos em ordem crescente d. sub conjunto de valores primos
 que está contido no veto*/
 
-#include <stdio.h>
-#include <stdlib.h>
 
 int Primo(int num)
 {
